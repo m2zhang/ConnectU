@@ -1,2 +1,2 @@
 # ConnectU
-Event app 
+Event app! 
